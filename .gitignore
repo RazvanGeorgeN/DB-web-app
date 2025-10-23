@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.settings/
+*.iml
+
+# Eclipse
+.classpath
+.project
+
+# Build folders
+build/
+bin/
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
